@@ -1,0 +1,7 @@
+net/locobroko/lBAuctionSystem/commands/AuctionHouseCommand.class
+net/locobroko/lBAuctionSystem/RedisManager.class
+net/locobroko/lBAuctionSystem/commands/subcommands/SellCommand.class
+net/locobroko/lBAuctionSystem/Main.class
+net/locobroko/lBAuctionSystem/commands/SubCommand.class
+net/locobroko/lBAuctionSystem/commands/subcommands/ViewCommand.class
+net/locobroko/lBAuctionSystem/commands/subcommands/DropboxCommand.class

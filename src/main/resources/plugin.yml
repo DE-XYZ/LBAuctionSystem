@@ -1,0 +1,10 @@
+name: LBAuctionSystem
+version: '1.0'
+main: net.locobroko.lBAuctionSystem.Main
+api-version: '1.21'
+author: XYZ-DE
+
+commands:
+  ah:
+    usage: /<command> [view|dropbox|sell]
+    aliases: [auction, auctionhouse]

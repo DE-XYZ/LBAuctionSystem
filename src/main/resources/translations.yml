@@ -1,0 +1,15 @@
+#english
+auction-system:
+  commands:
+    wrong-arguments: <yellow> --- Auction Commands --- \n
+                    <aqua>/ah view:<blue>v
+                    <aqua>/ah sell:<blue>s <white><Starting Price> <Time> <Buy Price>
+                    <aqua>/ah dropbox:<blue>d
+
+#German
+auction-system:
+  commands:
+    wrong-arguments: <yellow> --- Auction Commands --- \n
+      <aqua>/ah view:<blue>v
+      <aqua>/ah sell:<blue>s <white><Startpreis> <Zei> <Kaufpreis>
+      <aqua>/ah dropbox:<blue>d
